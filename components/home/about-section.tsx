@@ -20,12 +20,10 @@ const AboutSection = () => {
                 <h2>Who Are We?</h2>
               </div>
               <p>
-                Nahal Technologies is a film production company founded in 2021 with the sole purpose of
-                rendering film/video production services. Our services range from pre-production, production to post
-                production. We are a pool of professionals, dedicated and innovative individuals specialized in subject
-                matter delivery methodologies in ideation and concept development, scripting, shooting the concept in the
-                most professional way, video editing, audio final mix, color grading, graphics design, and final packaging
-                of TV shows, feature films, adverts, documentaries, and short films.
+                We provide reliable supply of telecommunication equipment and services to all domestic
+                and foreign companies and aim to provide the latest technologies in the fields of Internet,
+                Communications, Telecommunication, Wimax and Optical solutions; this also include End to End
+                connectivity with last mile patching through direct fiber wireless and Microwave links connectivity.
               </p>
               <div className="btn-box">
                 <a href="#contact">Get a quote</a>
