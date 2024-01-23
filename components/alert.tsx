@@ -20,7 +20,7 @@ const Alert = ({ preview }: Props) => {
         <a href="" className="contact_link1">
           <FontAwesomeIcon icon={faLocationDot} size="2x" style={{ color: '#e8b602' }} />
           <span className="pl-2">
-            Nairobi, Kenya </span>
+            Munuku, Juba </span>
         </a>
         <a href="" className="contact_link2">
           <FontAwesomeIcon icon={faPhone} size="2x" style={{ color: '#e8b602' }} />
