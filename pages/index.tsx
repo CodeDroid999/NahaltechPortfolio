@@ -1,4 +1,5 @@
 import Head from 'next/head'
+
 import AboutSection from '../components/home/about-section'
 import HeroArea from '../components/home/hero-section'
 import MissionSection from '../components/home/misssion-section'
