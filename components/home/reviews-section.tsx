@@ -17,7 +17,7 @@ const ReviewsSection: React.FC = () => {
                 <div className="detail-box">
                   <h4>Safecon Music</h4>
                   <p>
-                    "Sledge Entertainment consistently delivers exceptional quality in their work. Their attention to
+                    "NAHAL TECHNOLOGIES consistently delivers exceptional quality in their work. Their attention to
                     detail in post-production and their ability to bring our concepts to life is unparalleled."
                   </p>
                 </div>
@@ -31,7 +31,7 @@ const ReviewsSection: React.FC = () => {
                 <div className="detail-box">
                   <h4>Phil-it Productions LTD</h4>
                   <p>
-                    "We couldn't be happier with our collaboration with Sledge Entertainment. Their cinematography and
+                    "We couldn't be happier with our collaboration with NAHAL TECHNOLOGIES. Their cinematography and
                     expert editing turned our scripts into cinematic gems that exceeded our expectations."
                   </p>
                 </div>
@@ -45,7 +45,7 @@ const ReviewsSection: React.FC = () => {
                 <div className="detail-box">
                   <h4>Njugush.ke</h4>
                   <p>
-                    "Sledge Entertainment's graphic design team consistently delivers eye-catching visuals that resonate
+                    "NAHAL TECHNOLOGIES's graphic design team consistently delivers eye-catching visuals that resonate
                     with our brand. Their creativity and attention to detail are truly impressive."
                   </p>
                 </div>

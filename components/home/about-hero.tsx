@@ -22,15 +22,15 @@ const AboutHeroArea = () => {
                                     <div className="col-md-7">
                                         <div className="detail-box">
                                             <h1>
-                                                About <br/>
+                                                About <br />
                                                 <span>
-                                                    Sledge Entertainment </span>
+                                                    NAHAL TECHNOLOGIES </span>
                                             </h1>
                                             <p>
                                                 Transforming ideas into captivating stories through the magic of film. Experience creativity in
                                                 motion.
                                             </p>
-                                           
+
                                         </div>
                                     </div>
                                 </div>
@@ -42,15 +42,14 @@ const AboutHeroArea = () => {
                                     <div className="col-md-7">
                                         <div className="detail-box">
                                             <h1>
-                                                Elevating visual
-                                                <span>
+                                                Elevating<span>
                                                     storytelling </span>
                                             </h1>
                                             <p>
                                                 Concepts become vivid realities, leaving an indelible mark on audiences. See your vision come
                                                 alive.
                                             </p>
-                                       
+
                                         </div>
                                     </div>
                                 </div>
@@ -69,7 +68,7 @@ const AboutHeroArea = () => {
                                             <p>
                                                 Collaborate to bring your ideas to life with precision, creativity, and innovation. We are your
                                                 creative partner. </p>
-                                        
+
                                         </div>
                                     </div>
                                 </div>

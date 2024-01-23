@@ -119,9 +119,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0.9)), to(rgba(0, 0, 0, 0.6)));
-  /* Adjust opacity values here */
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6));
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0));
   /* Adjust opacity values here */
 }
 
@@ -152,7 +150,7 @@ body {
 }
 
 .header_top {
-  background-color: #140656;
+  background-color: #efaa08;
   padding: 15px 0;
 }
 

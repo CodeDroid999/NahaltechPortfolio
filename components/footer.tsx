@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
       <p className="text-white">
         &copy; <span id="currentYear"></span> All Rights Reserved.
         <a href="https://www.youtube.com/@SilusSledgeAmbani">
-          Sledge Entertainment LTD
+          NAHAL TECHNOLOGIES LTD
         </a>
       </p>
     </footer>
