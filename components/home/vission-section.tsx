@@ -18,7 +18,7 @@ const VisionSection: React.FC = () => {
                 <h2>Our Vision</h2>
               </div>
               <p>
-                "Our vision at Sledge Entertainment Limited is to be an epitome of storytelling through filmmaking. We
+                "Our vision at Nahal Technologies is to be an epitome of storytelling through filmmaking. We
                 aspire to set the standard for creative excellence in the industry, using the medium of film to weave
                 compelling narratives that captivate, inspire, and leave a lasting impact. With innovation and dedication
                 at our core, we aim to continuously push the boundaries of cinematic artistry, setting new benchmarks for

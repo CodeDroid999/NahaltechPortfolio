@@ -15,7 +15,7 @@ const CustomNavbar = () => {
   return (
     <div className="m-auto flex max-w-[1100px] items-center justify-between p-2 lg:p-3">
       {/**Mobile Nav */}
-      <MobileNavbar/>
+      <MobileNavbar />
 
       {/**Desktop */}
       <div className="hidden w-full items-center justify-between font-semibold lg:flex">
@@ -25,7 +25,7 @@ const CustomNavbar = () => {
               <Link href="/" className="text-gray-700">
                 <div className="mb-1">
                   <Image
-                    src="https://i.postimg.cc/FRXRmLQ5/log.png"
+                    src="/public/favicon/Nahal-tech-logo.png"
                     alt="task"
                     width={200}
                     height={100}

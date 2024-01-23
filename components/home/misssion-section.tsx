@@ -18,7 +18,7 @@ const MissionSection: React.FC = () => {
                 <h2>Our mission</h2>
               </div>
               <p>
-                Our mission at Sledge Entertainment Limited is simple yet profound: to bring a positive change to society
+                Our mission at Nahal Technologies is simple yet profound: to bring a positive change to society
                 through our craft. We believe in the transformative power of storytelling and visual artistry to inspire,
                 educate, and uplift. With each project we undertake, our goal is to create content that not only
                 entertains but also resonates with audiences, fostering understanding, empathy, and positive change.

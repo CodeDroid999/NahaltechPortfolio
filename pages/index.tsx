@@ -1,5 +1,4 @@
 import Head from 'next/head'
-
 import AboutSection from '../components/home/about-section'
 import HeroArea from '../components/home/hero-section'
 import MissionSection from '../components/home/misssion-section'
@@ -12,15 +11,15 @@ import ContactForm from '../components/layout/contact-form'
 
 export default function Index() {
   return (
-      <Layout>
-        <HeroArea />
-        <AboutSection />
-        <ServiceSection />
-        <MissionSection/>
-        <ReviewsSection/>
-        <VisionSection/>
-        <ProjectsSection/>
-        <ContactForm />
-      </Layout>
+    <Layout>
+      <HeroArea />
+      <AboutSection />
+      <ServiceSection />
+      <MissionSection />
+      <ReviewsSection />
+      <VisionSection />
+      <ProjectsSection />
+      <ContactForm />
+    </Layout>
   )
 }
