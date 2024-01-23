@@ -28,10 +28,10 @@ const Alert = ({ preview }: Props) => {
             Call : (+211) 922 102338
           </span>
         </a>
-        <a href="mailto:sledgeentertainment8@gmail.com" className="contact_link3">
+        <a href="mailto:sscholy@gmail.com" className="contact_link3">
           <FontAwesomeIcon icon={faEnvelope} size="2x" style={{ color: '#e8b602' }} />
           <span className="pl-2">
-            sledgeentertainment8@gmail.com
+            sscholy@gmail.com
           </span>
         </a>
       </div>
