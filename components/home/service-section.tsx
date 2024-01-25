@@ -13,56 +13,54 @@ const ServiceSection: React.FC = () => {
         </div>
         <div className="row">
           <ServiceBox
-            title="IDEATION AND CONCEPT DEVELOPMENT"
-            description="At Nahal Technologies, we excel at turning creative visions into captivating concepts. 
-            Our skilled team specializes in ideation, crafting the perfect foundation for your project. Let's bring your 
-             to life – from imagination to extraordinary reality."
+            title="Telecommunication equipment and services"
+            description="We provide end-to-end procurement and delivery 
+            of the latest IT and telecom hardware and software, including 
+            routers, switches, servers, and wireless solutions tailored to 
+            expand connectivity and optimize network performance."
           />
           <ServiceBox
-            title="SCRIPT WRITING"
-            description="Scriptwriting is our forte at Nahal Technologies. We have a dedicated team of experienced
-             professionals who specialize in crafting engaging narratives, bringing your ideas to life with words that resonate on screen."
+            title="Datacenter Design & ArchitectureG"
+            description="Nahal Technologies we optimize datacenter 
+            scalability, resilience, efficiency, and safety through consulting services focused on capacity 
+            planning, redundancy building, power management, and physical plus cybersecurity protocols."
           />
           <ServiceBox
-            title="PRODUCTION"
-            description="Production is where Nahal Technologies truly shines. With a team of seasoned professionals, 
-            we transform your vision into reality, executing a seamless and top-notch production process from inception to completion."
+            title="Server Installation & Configuration"
+            description="Our skilled technicians seamlessly deploy, 
+            customize, integrate and support business servers, ensuring optimal uptime, 
+            performance, and compatibility with your existing systems and workloads."
           />
           <ServiceBox
-            title="AUDIO FINAL MIX"
-            description="Audio final mix is where Nahal Technologies perfects the auditory experience. Our dedicated sound engineers meticulously blend and refine the audio elements, ensuring that every sound, from dialogue to music, harmonizes seamlessly and immerses the audience in your project."
+            title="Software Development Services"
+            description="We build future-ready, enterprise-grade software 
+            applications aligned to meet unique client requirements across web, 
+            mobile, cloud platforms to drive workflow excellence and technology advantage."
           />
           <ServiceBox
-            title="GRAPHICS DESIGN"
-            description="Graphic design is a cornerstone of our creative arsenal. Our talented designers craft visuals that not
-             only captivate but also communicate your project's essence effectively. With an eye for aesthetics and a passion for innovation, we bring your ideas to life through compelling graphics."
+            title="IT Consulting Services"
+            description="At Nahal technologies we offer strategic technology
+             guidance and targeted solutions encompassing security, infrastructure
+              upgrades, support services and more to maximize capability, productivity, and risk management."
           />
           <ServiceBox
-            title="FINAL PACKAGING"
-            description="Final packaging is the culmination of our meticulous work at Nahal Technologies. We ensure your project is presented flawlessly, ready for its audience. 
-                        Our attention to detail in packaging guarantees a polished and professional presentation that leaves a lasting impression."
+            title="Data Analytics Services"
+            description="Our team of highly seasoned professionals help businesses harness valuable insights hidden
+             in your data by building advanced warehouses coupled with predictive models,
+              queries, and intelligence reporting platforms."
           />
           <ServiceBox
-            title="PHOTOGRAPHY"
-            description="Nahal Technologies also offers expert photography services. Our experienced team excels in capturing 
-            the essence of your project with precision and creativity, delivering stunning visuals that enhance your storytelling."
+            title="Artificial Intelligence Services"
+            description="Nahal Technologies also develops ‘smart’ software that trains machines to 
+            simulate human learning and logic to independently complete complex processing and problem-solving.."
           />
           <ServiceBox
-            title="EDITING"
-            description="Editing is where Nahal Technologies truly transforms raw footage into cinematic brilliance. Our
-             skilled editing team assembles and refines your content, ensuring a polished and captivating final product that leaves
-              a lasting impression."
+            title="Network Design Services"
+            description="We architect speed-optimized networks with ample bandwidth, minimal lag, 
+            and robust endpoint-to-endpoint access control
+             protocols to enable secure enterprise-wide collaboration."
           />
-          <ServiceBox
-            title="COLOR GRADING"
-            description="Color grading is an art form at Nahal Technologies. Our expert colorists enhance the visual appeal
-             of your content, creating a mood and tone that aligns perfectly with your vision. With a keen eye for detail, we bring depth 
-             and vibrancy to your project."
-          />
-          <ServiceBox
-            title="CINEMATOGRAPHY"
-            description="Production is where Nahal Technologies truly shines. With a team of seasoned professionals, we transform your vision into reality, executing a seamless and top-notch production process from inception to completion."
-          />
+
         </div>
       </div>
     </section>
