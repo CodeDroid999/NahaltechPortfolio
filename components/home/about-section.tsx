@@ -20,11 +20,15 @@ const AboutSection = () => {
                 <h2>Who Are We?</h2>
               </div>
               <p>
-                We provide reliable supply of telecommunication equipment and services to all domestic
-                and foreign companies and aim to provide the latest technologies in the fields of Internet,
-                Communications, Telecommunication, Wimax and Optical solutions; this also include End to End
-                connectivity with last mile patching through direct fiber wireless and Microwave links connectivity.
+                Nahal Technologies is a leading technology solutions provider enabling businesses
+                and organizations across Africa to harness innovation and emerge into the digital
+                age. Established in 2019 and headquartered in Juba, South Sudan, we are a trusted
+                homegrown partner with an expansive reach across the region.
               </p>
+              <p>Our broad service portfolio includes data center architecture, network design, server
+                installation, software development, IT consulting and a range of infrastructure management
+                services. We supplement this by forging partnerships with leading global technology vendors
+                to offer best-in-class products.</p>
               <div className="btn-box">
                 <a href="#contact">Get a quote</a>
               </div>
