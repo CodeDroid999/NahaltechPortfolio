@@ -17,7 +17,6 @@ export default function Index() {
       <AboutSection />
       <ServiceSection />
       <MissionSection />
-      <ReviewsSection />
       <VisionSection />
       <ProjectsSection />
       <ContactForm />
