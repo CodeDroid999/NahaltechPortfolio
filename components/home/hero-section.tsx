@@ -22,13 +22,13 @@ const HeroArea = () => {
                   <div className="col-md-7">
                     <div className="detail-box">
                       <h1>
-                        Crafting Cinematic
+                        Connecting Africa Through
                         <span>
-                          experiences </span>
+                          Technology</span>
                       </h1>
                       <p>
-                        Transforming ideas into captivating stories through the magic of film. Experience creativity in
-                        motion.
+                        Cutting-edge telecommunications equipment and infrastructure
+                        solutions to expand connectivity across Africa.
                       </p>
                       <div className="btn-box">
                         <a href="#about" className="btn-1"> Learn more </a>
@@ -45,13 +45,13 @@ const HeroArea = () => {
                   <div className="col-md-7">
                     <div className="detail-box">
                       <h1>
-                        Elevating visual
+                        Powering Business Growth
                         <span>
-                          storytelling </span>
+                          With Innovation  </span>
                       </h1>
                       <p>
-                        Concepts become vivid realities, leaving an indelible mark on audiences. See your vision come
-                        alive.
+                        Empowering businesses to leverage the latest technologies like AI,
+                        big data, and IoT to drive greater efficiency and productivity.
                       </p>
                       <div className="btn-box">
                         <a href="#about" className="btn-1"> Learn more </a>
@@ -68,13 +68,12 @@ const HeroArea = () => {
                   <div className="col-md-7">
                     <div className="detail-box">
                       <h1>
-                        Unleash your
-                        <span>
-                          creative vision </span>
+                        The Future of Technology,
+                        <span>Engineered </span>
                       </h1>
                       <p>
-                        Collaborate to bring your ideas to life with precision, creativity, and innovation. We are your
-                        creative partner. </p>
+                        We design, build and manage scalable, reliable, and secure technology
+                        infrastructure tailored to meet the needs of tomorrow.</p>
                       <div className="btn-box">
                         <a href="#about" className="btn-1"> Learn more </a>
                         <a href="#contact" className="btn-2">Get A Quote</a>
