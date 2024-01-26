@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
     <footer className="container-fluid footer_section">
       <p className="text-white">
         &copy; <span id="currentYear"></span> All Rights Reserved.
-        <a href="https://www.youtube.com/@SilusSledgeAmbani">
+        <a href="" className="pr-2">
           NAHAL TECHNOLOGIES LTD
         </a>
       </p>
