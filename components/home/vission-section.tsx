@@ -8,7 +8,7 @@ const VisionSection: React.FC = () => {
           <div className="col-md-6 px-0">
             <div className="img_container">
               <div className="img-box">
-                <img src="images/vision.jpg" alt="" />
+                <img src="images/vission.jpeg" alt="" />
               </div>
             </div>
           </div>
