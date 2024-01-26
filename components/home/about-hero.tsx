@@ -27,8 +27,7 @@ const AboutHeroArea = () => {
                                                     NAHAL TECHNOLOGIES </span>
                                             </h1>
                                             <p>
-                                                Transforming ideas into captivating stories through the magic of film. Experience creativity in
-                                                motion.
+                                                Harnessing the Power of Technology for a Better Future
                                             </p>
 
                                         </div>
@@ -42,12 +41,12 @@ const AboutHeroArea = () => {
                                     <div className="col-md-7">
                                         <div className="detail-box">
                                             <h1>
-                                                Elevating<span>
-                                                    storytelling </span>
+                                                Connecting Africa Through<span>
+                                                    Technology </span>
                                             </h1>
                                             <p>
-                                                Concepts become vivid realities, leaving an indelible mark on audiences. See your vision come
-                                                alive.
+                                                Cutting-edge telecommunications equipment and infrastructure
+                                                solutions to expand connectivity across Africa.
                                             </p>
 
                                         </div>
@@ -61,13 +60,13 @@ const AboutHeroArea = () => {
                                     <div className="col-md-7">
                                         <div className="detail-box">
                                             <h1>
-                                                Unleash your
+                                                Powering Business Growth
                                                 <span>
-                                                    creative vision </span>
+                                                    With Innovation </span>
                                             </h1>
                                             <p>
-                                                Collaborate to bring your ideas to life with precision, creativity, and innovation. We are your
-                                                creative partner. </p>
+                                                Empowering businesses to leverage the latest technologies including AI,
+                                                big data, and IoT to drive greater efficiency and productivity.</p>
 
                                         </div>
                                     </div>

@@ -50,7 +50,7 @@ const HeroArea = () => {
                           With Innovation  </span>
                       </h1>
                       <p>
-                        Empowering businesses to leverage the latest technologies like AI,
+                        Empowering businesses to leverage the latest technologies including AI,
                         big data, and IoT to drive greater efficiency and productivity.
                       </p>
                       <div className="btn-box">
