@@ -21,11 +21,6 @@ const NavigationMenu: React.FC = () => {
           </Link>
         </li>
         <li className="nav-item p-2">
-          <Link href="/projects" passHref>
-            <span className="nav-link pl-3">Projects</span>
-          </Link>
-        </li>
-        <li className="nav-item p-2">
           <Link href="/blog" passHref>
             <span className="nav-link pl-3">Blog</span>
           </Link>

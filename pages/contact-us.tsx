@@ -1,6 +1,5 @@
 import Alert from 'components/layout/alert'
 import LightCustomNavbar from 'components/layout/lightNav'
-import Head from 'next/head'
 
 import AboutSection from '../components/home/about-section'
 import HeroArea from '../components/home/hero-section'
@@ -16,7 +15,6 @@ export default function Contactus() {
   return (
     <Layout>
       <div className="h">
-      
         <LightCustomNavbar />
       </div>
       <ContactForm />

@@ -48,10 +48,7 @@ const CustomNavbar = () => {
             HOME
           </Link>
 
-          <Link
-            href="/about"
-            className="font-medium text-white hover:text-green-500"
-          >
+          <Link href="/about" className="font-medium text-white hover:text-green-500"          >
             ABOUT
           </Link>
           <Link
@@ -59,14 +56,11 @@ const CustomNavbar = () => {
             className="font-medium text-white hover:text-green-500"
           >
             SERVICES
-          </Link> <Link
-            href="/projects"
+          </Link>
+          <Link
+            href="/blog"
             className="font-medium text-white hover:text-green-500"
           >
-            PROJECTS          </Link> <Link
-              href="/blog"
-              className="font-medium text-white hover:text-green-500"
-            >
             BLOG
           </Link>
           <Link

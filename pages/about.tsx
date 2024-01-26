@@ -13,13 +13,11 @@ import AboutHeroArea from 'components/home/about-hero'
 
 export default function About() {
   return (
-      <Layout>
-        <AboutHeroArea/>
-        <AboutSection />
-        <MissionSection/>
-        <ReviewsSection/>
-        <VisionSection/>
-        <ProjectsSection/>
-      </Layout>
+    <Layout>
+      <AboutHeroArea />
+      <AboutSection />
+      <MissionSection />
+      <VisionSection />
+    </Layout>
   )
 }
