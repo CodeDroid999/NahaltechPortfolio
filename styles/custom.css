@@ -150,7 +150,7 @@ body {
 }
 
 .header_top {
-  background-color: #03010bda;
+  background-color: #080125da;
   padding: 15px 0;
 }
 
@@ -863,7 +863,7 @@ a:focus {
 }
 
 .info_section .info_links ul li a {
-  color: #090f49;
+  color: #020733;
 }
 
 .info_section .info_contact {
@@ -931,17 +931,18 @@ a:focus {
   -ms-flex-pack: center;
   justify-content: center;
   padding: 20px;
-  background-color: #14013e;
+  background-color: #10042c;
 }
 
 .footer_section p {
-  color: rgba(254, 254, 255, 0.7);
+  color: rgba(248, 146, 3, 0.92);
   margin: 0;
   text-align: center;
 }
 
 .footer_section a {
-  color: rgba(254, 254, 255, 0.7);
+  color: rgba(248, 146, 3, 0.92);
+
 }
 
 .image-box {
