@@ -18,13 +18,14 @@ const VisionSection: React.FC = () => {
                 <h2>Our Vision</h2>
               </div>
               <p>
-                "Our vision at Nahal Technologies is to be an epitome of storytelling through filmmaking. We
-                aspire to set the standard for creative excellence in the industry, using the medium of film to weave
-                compelling narratives that captivate, inspire, and leave a lasting impact. With innovation and dedication
-                at our core, we aim to continuously push the boundaries of cinematic artistry, setting new benchmarks for
-                the art of storytelling. Our commitment is to be a guiding light in the world of filmmaking, where every
-                project we undertake reflects our unwavering pursuit of narrative brilliance."
+                Our vision is to shape the technology landscape across Africa by spearheading innovation that drives sustainable digital transformation.
               </p>
+              <p>We aim to achieve this by:</p>
+              <ol className="px-3">
+                <li className="mb-3">Becoming the leading provider of locally relevant technology solutions tailored for African businesses seeking to digitally transform. Our in-depth understanding of local market challenges allows us to develop customized solutions to unlock efficiency, resilience and new opportunities.</li>
+                <li className="mb-3">Expanding our footprint across key African markets by 2025 to extend our expertise where it is most needed. Our on-the-ground presence and proximity to clients provides the context to deliver maximum value.</li>
+                <li className="mb-3">Investing in emerging technologies like artificial intelligence, blockchain and the Internet of Things to keep African innovation at the cutting edge. We will collaborate with startups and established players to build a vibrant future-ready ecosystem.</li>
+              </ol>
             </div>
           </div>
         </div>
