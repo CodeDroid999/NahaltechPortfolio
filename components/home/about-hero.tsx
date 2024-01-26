@@ -8,7 +8,7 @@ const AboutHeroArea = () => {
         <div className="hero_area">
             <div className="hero_bg_box">
                 <div className="img-box">
-                    <img src="/public/images/about-hero.jpg" alt="" />
+                    <img src="images/hero-bg.jpg" alt="" />
                 </div>
             </div>
 
