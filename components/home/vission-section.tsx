@@ -2,7 +2,7 @@ import React from 'react';
 
 const VisionSection: React.FC = () => {
   return (
-    <section id="vision" className="about_section layout_padding bg-gray-100" >
+    <section id="vision" className="about_section layout_padding bg-white" >
       <div className="container">
         <div className="row">
           <div className="col-md-6 px-0">
