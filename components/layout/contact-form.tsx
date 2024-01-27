@@ -21,7 +21,7 @@ const ContactForm: React.FC = () => {
                 id="fs-frm"
                 name="simple-contact-form"
                 accept-charset="utf-8"
-                action="https://formspree.io/f/xwkdbwbw"
+                action="https://formspree.io/f/xdoqapwq"
                 method="post"
               >
                 <div className="contact_form-container">
