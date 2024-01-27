@@ -5,7 +5,7 @@ const ContactForm: React.FC = () => {
     <section id="contact" className="contact_section layout_padding">
       <div className="contact_bg_box">
         <div className="img-box">
-          <img src="images/contact-bg.jpg" alt="" />
+          <img src="images/contact-from-bg.jpg" alt="" />
         </div>
       </div>
       <div className="container">
