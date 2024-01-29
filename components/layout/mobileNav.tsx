@@ -23,7 +23,7 @@ const MobileNavbar = () => {
           <Link href="/" className="text-gray-700">
             <div className="mb-1">
               <Image
-                src="https://i.postimg.cc/FRXRmLQ5/log.png"
+                src="https://i.postimg.cc/hPwQ9fG7/Nahal-tech-logo.png"
                 alt="task"
                 width={130}
                 height={60}
