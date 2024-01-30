@@ -1,5 +1,5 @@
 import React from 'react';
-import { TiTick } from 'react-icons/ti';
+import { TiTick } from 'react-icons/';
 
 
 const MissionSection: React.FC = () => {
@@ -20,7 +20,8 @@ const MissionSection: React.FC = () => {
                 <h2>Our mission</h2>
               </div>
               <p>
-                At Nahal Technologies, our mission is to empower businesses, organizations and communities across Africa to harness the power of technology to transform how they operate, deliver value and drive progress.
+                At Nahal Technologies, to empower businesses and individuals through innovative technological solutions that drive efficiency,
+productivity, and growth..
               </p>
 
               <p>Our mission focuses on:</p>

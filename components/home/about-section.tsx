@@ -20,15 +20,13 @@ const AboutSection = () => {
                 <h2>Who Are We?</h2>
               </div>
               <p>
-                Nahal Technologies is a leading technology solutions provider enabling businesses
-                and organizations across Africa to harness innovation and emerge into the digital
-                age. Established in 2019 and headquartered in Juba, South Sudan, we are a trusted
-                homegrown partner with an expansive reach across the region.
-              </p>
-              <p>Our broad service portfolio includes data center architecture, network design, server
-                installation, software development, IT consulting and a range of infrastructure management
-                services. We supplement this by forging partnerships with leading global technology vendors
-                to offer best-in-class products.</p>
+              Nahal Technologies is a leading provider of cutting-edge technology solutions, dedicated to helping
+businesses and individuals thrive in the ever-evolving digital landscape. With a team of passionate and
+experienced professionals,
+Nahal Technologies offers a comprehensive suite of services.
+Nahal Technologies is committed to providing its clients with high-quality, cost-effective solutions that
+are tailored to their specific needs. The company's focus on innovation, collaboration, and customer
+satisfaction has made it a trusted partner for businesses and organizations of all sizes.</p>
               <div className="btn-box">
                 <a href="#contact">Get a quote</a>
               </div>
