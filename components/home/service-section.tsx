@@ -32,7 +32,7 @@ const ServiceSection: React.FC = () => {
             description="Our skilled technicians seamlessly deploy, 
             customize, integrate and support business servers, ensuring optimal uptime, 
             performance, and compatibility with your existing systems and workloads."
-            pageUrl="/services/telecommunications-supplies-and-services"
+            pageUrl="/services/server-installation-and-configuration"
           />
           <ServiceBox
             title="Software Development Services"
