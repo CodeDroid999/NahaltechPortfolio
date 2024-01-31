@@ -13,7 +13,8 @@ const ServiceSection: React.FC = () => {
         </div>
         <div className="row justify-center">
           <ServiceBox
-            title="Telecommunication equipment and services"
+            bgUrl="https://i.postimg.cc/ZYGQKL3H/telecommunication-equipment-and-services.jpg"
+            title="Telecommunication equipment & services"
             description="We provide end-to-end procurement and delivery 
             of the latest IT and telecom hardware and software, including 
             routers, switches, servers, and wireless solutions tailored to 
@@ -21,6 +22,7 @@ const ServiceSection: React.FC = () => {
             pageUrl="/services/telecommunications-supplies-and-services"
           />
           <ServiceBox
+            bgUrl="https://i.postimg.cc/ZYGQKL3H/telecommunication-equipment-and-services.jpg"
             title="Datacenter Design & Architecture"
             description="Nahal Technologies we optimize datacenter 
             scalability, resilience, efficiency, and safety through consulting services focused on capacity 
@@ -28,6 +30,7 @@ const ServiceSection: React.FC = () => {
             pageUrl="/services/datacenter-design-and-architecture"
           />
           <ServiceBox
+            bgUrl="https://i.postimg.cc/ZYGQKL3H/telecommunication-equipment-and-services.jpg"
             title="Server Installation & Configuration"
             description="Our skilled technicians seamlessly deploy, 
             customize, integrate and support business servers, ensuring optimal uptime, 
@@ -35,6 +38,7 @@ const ServiceSection: React.FC = () => {
             pageUrl="/services/server-installation-and-configuration"
           />
           <ServiceBox
+            bgUrl="https://i.postimg.cc/ZYGQKL3H/telecommunication-equipment-and-services.jpg"
             title="Software Development Services"
             description="We build future-ready, enterprise-grade software 
             applications aligned to meet unique client requirements across web, 
@@ -42,6 +46,7 @@ const ServiceSection: React.FC = () => {
             pageUrl="/services/software-development-services"
           />
           <ServiceBox
+            bgUrl="https://i.postimg.cc/ZYGQKL3H/telecommunication-equipment-and-services.jpg"
             title="IT Consulting Services"
             description="At Nahal technologies we offer strategic technology
              guidance and targeted solutions encompassing security, infrastructure
@@ -49,6 +54,7 @@ const ServiceSection: React.FC = () => {
             pageUrl="/services/it-consulting-services"
           />
           <ServiceBox
+            bgUrl="https://i.postimg.cc/ZYGQKL3H/telecommunication-equipment-and-services.jpg"
             title="Data Analytics Services"
             description="Our team of highly seasoned professionals help businesses harness valuable insights hidden
              in your data by building advanced warehouses coupled with predictive models,
@@ -56,11 +62,13 @@ const ServiceSection: React.FC = () => {
             pageUrl="/services/data-analytics-services"
           />
           <ServiceBox
+            bgUrl="https://i.postimg.cc/ZYGQKL3H/telecommunication-equipment-and-services.jpg"
             title="Artificial Intelligence Services"
             description="Nahal Technologies also develops âsmartâ software that trains machines to 
             simulate human learning and logic to independently complete complex processing and problem-solving."
             pageUrl="/services/artificial-intelligence-services" />
           <ServiceBox
+            bgUrl="https://i.postimg.cc/ZYGQKL3H/telecommunication-equipment-and-services.jpg"
             title="Network Design Services"
             description="We architect speed-optimized networks with ample bandwidth, minimal lag, 
             and robust endpoint-to-endpoint access control
