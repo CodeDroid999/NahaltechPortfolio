@@ -1,13 +1,8 @@
-import AboutHeroArea from 'components/home/about-hero'
-import AboutSection from 'components/home/about-section'
-import MissionSection from 'components/home/misssion-section'
-import VisionSection from 'components/home/vission-section'
 import Layout from 'components/layout'
 import CTA from 'components/services/CTA'
 import FeatureBox from 'components/services/Featurebox/FeatureBox'
 import HeroSection from 'components/services/HeroSection'
 import ServiceSection from 'components/services/ServiceSection'
-import Head from 'next/head'
 
 
 export default function ArtificialIntelligence() {
@@ -50,7 +45,6 @@ export default function ArtificialIntelligence() {
                 </div>
             </section>
             <CTA />
-            <MissionSection />
         </Layout>
     )
 }

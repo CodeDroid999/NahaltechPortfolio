@@ -25,9 +25,6 @@ const ServiceSection = ({ p1, p2 }) => {
                             </div>
                             <p>                          {p1}</p>
                             <p>{p2}</p>
-                            <div className="btn-box">
-                                <a href="/contact-us">Get a quote</a>
-                            </div>
                         </div>
                     </div>
                 </div>
