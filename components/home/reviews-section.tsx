@@ -1,5 +1,5 @@
 import React from 'react';
-
+{/**
 const ReviewsSection: React.FC = () => {
   return (
     <section id="reviews" className="client_section layout_padding">
@@ -51,7 +51,6 @@ const ReviewsSection: React.FC = () => {
                 </div>
               </div>
             </div>
-            {/* Continue adding carousel items here */}
           </div>
           <div className="carousel_btn-box">
             <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -70,3 +69,4 @@ const ReviewsSection: React.FC = () => {
 };
 
 export default ReviewsSection;
+**/}

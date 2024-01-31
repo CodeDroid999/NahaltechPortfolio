@@ -69,7 +69,7 @@ const ServiceSection: React.FC = () => {
             pageUrl="/services/network-design-services"
           />
           <ServiceBox
-
+            pageUrl="/services/entertainment-and-media"
             title="Entertainment & Media"
             description="Our tailored education technology solutions create personalized,
              interactive learning experiences through capabilities like AI-enhanced course 
