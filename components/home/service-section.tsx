@@ -11,7 +11,7 @@ const ServiceSection: React.FC = () => {
             Our services
           </h2>
         </div>
-        <div className="row">
+        <div className="row justify-center">
           <ServiceBox
             title="Telecommunication equipment and services"
             description="We provide end-to-end procurement and delivery 
