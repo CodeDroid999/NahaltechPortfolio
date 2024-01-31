@@ -3,13 +3,14 @@ import AboutSection from 'components/home/about-section'
 import MissionSection from 'components/home/misssion-section'
 import VisionSection from 'components/home/vission-section'
 import Layout from 'components/layout'
+import HeroSection from 'components/services/HeroSection'
 import Head from 'next/head'
 
 
 export default function About() {
     return (
         <Layout>
-            <AboutHeroArea />
+            <HeroSection Title1="Server" Title2=" installation Services" />
             <AboutSection />
             <MissionSection />
             <VisionSection />
