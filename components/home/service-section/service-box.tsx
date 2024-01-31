@@ -1,4 +1,3 @@
-// src/components/ServiceBox.tsx
 import React, { ReactNode } from 'react';
 
 interface ServiceBoxProps {
@@ -10,10 +9,7 @@ interface ServiceBoxProps {
 const ServiceBox: React.FC<ServiceBoxProps> = ({ title, description, pageUrl }) => {
   return (
     <div className="col-md-6">
-      <div className="box">
-        {/**<div className="img-box">
-          {svg}
-  </div>**/}
+      <div className="box" style={{ backgroundImage: 'url(https://i.postimg.cc/vmLh6qX7/vission.jpg)', backgroundSize: 'cover', backgroundPosition: 'center', width: '100%', height: '100%' }}>
         <div className="detail-box">
           <h6>{title}</h6>
           <p>{description}</p>
