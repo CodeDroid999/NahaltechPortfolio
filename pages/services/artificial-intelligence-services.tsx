@@ -9,7 +9,7 @@ export default function ArtificialIntelligence() {
     return (
         <Layout>
             <HeroSection Title1="Artificial" Title2=" Intelligence" />
-            <ServiceSection p1="At Nahal Technologies, our expert software engineers and developers specialize in crafting high-performance enterprise-grade software tailored to address our clients’ unique digital transformation needs. Whether building feature-rich web platforms, intuitive mobile applications or mission-critical cloud-based solutions, we pride ourselves on our ability to translate business requirements into eloquent code that achieves outcomes."
+            <ServiceSection bg="https://i.postimg.cc/25N5wcHV/AI.png" p1="At Nahal Technologies, our expert software engineers and developers specialize in crafting high-performance enterprise-grade software tailored to address our clients’ unique digital transformation needs. Whether building feature-rich web platforms, intuitive mobile applications or mission-critical cloud-based solutions, we pride ourselves on our ability to translate business requirements into eloquent code that achieves outcomes."
                 p2="Our development methodology focuses on rapid prototyping coupled with robust architecture optimized for security, scalability and maintainability across product lifecycles. If leveraging software to connect processes, unlock insights or achieve competitive advantage is your goal, our passionate team would welcome the opportunity to collaborate on delivering excellence." />
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
