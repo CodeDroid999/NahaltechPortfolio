@@ -16,7 +16,7 @@ const ServiceBox: React.FC<ServiceBoxProps> = ({ title, description }) => {
         <div className="detail-box">
           <h6>{title}</h6>
           <p>{description}</p>
-          <a href="#contact">Get a quote</a>
+          <a href="#contact">Learn More</a>
         </div>
       </div>
     </div>
