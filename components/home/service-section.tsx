@@ -56,7 +56,7 @@ const ServiceSection: React.FC = () => {
             pageUrl="/services/data-analytics-services"
           />
           <ServiceBox
-            bgUrl="https://i.postimg.cc/ZYGQKL3H/telecommunication-equipment-and-services.jpg"
+
             title="Artificial Intelligence Services"
             description="Nahal Technologies also develops âsmartâ software that trains machines to 
             simulate human learning and logic to independently complete complex processing and problem-solving."
