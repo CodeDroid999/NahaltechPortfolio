@@ -22,13 +22,10 @@ const HeroArea = () => {
                   <div className="col-md-7">
                     <div className="detail-box">
                       <h1>
-                        Connecting Africa Through
-                        <span>
-                          Technology</span>
+                        Connecting Africa Through<span> Technology</span>
                       </h1>
                       <p>
-                        Cutting-edge telecommunications equipment and infrastructure
-                        solutions to expand connectivity across Africa.
+                        Harnessing the Power of Technology for a Better Future
                       </p>
                       <div className="btn-box">
                         <a href="#about" className="btn-1"> Learn more </a>
