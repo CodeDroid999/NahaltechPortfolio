@@ -39,7 +39,7 @@ const ServiceSection: React.FC = () => {
             description="We build future-ready, enterprise-grade software 
             applications aligned to meet unique client requirements across web, 
             mobile, cloud platforms to drive workflow excellence and technology advantage."
-            pageUrl="/services/telecommunications-supplies-and-services"
+            pageUrl="/services/software-development-services"
           />
           <ServiceBox
             title="IT Consulting Services"
