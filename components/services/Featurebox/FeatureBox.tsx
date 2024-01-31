@@ -7,7 +7,7 @@ interface FeatureBoxProps {
 
 const FeatureBox: React.FC<FeatureBoxProps> = ({ title, description, }) => {
     return (
-        <div className="col-md-6 ">
+        <div className="col-md-4 ">
             <div className="box rounded">
                 <div className="detail-box mt-2">
                     <h6 className=" font-bold text-lg underline">{title}</h6>

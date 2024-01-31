@@ -8,10 +8,10 @@ import HeroSection from 'components/services/HeroSection'
 import Head from 'next/head'
 
 
-export default function DataAnalyticServices() {
+export default function About() {
     return (
         <Layout>
-            <HeroSection Title1="Data" Title2=" Analytics Services" />
+            <HeroSection Title1="Artificial" Title2=" Intelligence Services" />
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
                     <div className="heading_container heading_center">

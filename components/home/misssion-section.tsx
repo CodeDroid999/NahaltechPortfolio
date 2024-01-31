@@ -1,5 +1,4 @@
 import React from 'react';
-import { TiTick } from 'react-icons/';
 
 
 const MissionSection: React.FC = () => {
@@ -10,7 +9,7 @@ const MissionSection: React.FC = () => {
           <div className="col-md-6 px-0">
             <div className="img_container">
               <div className="img-box">
-                <img src="images/mission.jpeg" alt="Mission" />
+                <img src="https://i.postimg.cc/BZwCt4z4/mission.jpg" alt="Mission" />
               </div>
             </div>
           </div>
@@ -21,7 +20,7 @@ const MissionSection: React.FC = () => {
               </div>
               <p>
                 At Nahal Technologies, to empower businesses and individuals through innovative technological solutions that drive efficiency,
-productivity, and growth..
+                productivity, and growth..
               </p>
 
               <p>Our mission focuses on:</p>

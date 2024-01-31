@@ -29,7 +29,7 @@ const HeroArea = () => {
                       </p>
                       <div className="btn-box">
                         <a href="#about" className="btn-1"> Learn more </a>
-                        <a href="#contact" className="btn-2">Get A Quote</a>
+                        <a href="/contact-us" className="btn-2">Get A Quote</a>
                       </div>
                     </div>
                   </div>
@@ -52,7 +52,7 @@ const HeroArea = () => {
                       </p>
                       <div className="btn-box">
                         <a href="#about" className="btn-1"> Learn more </a>
-                        <a href="#contact" className="btn-2">Get A Quote</a>
+                        <a href="/contact-us" className="btn-2">Get A Quote</a>
                       </div>
                     </div>
                   </div>
@@ -73,7 +73,7 @@ const HeroArea = () => {
                         infrastructure tailored to meet the needs of tomorrow.</p>
                       <div className="btn-box">
                         <a href="#about" className="btn-1"> Learn more </a>
-                        <a href="#contact" className="btn-2">Get A Quote</a>
+                        <a href="/contact-us" className="btn-2">Get A Quote</a>
                       </div>
                     </div>
                   </div>

@@ -3,15 +3,19 @@ import AboutSection from 'components/home/about-section'
 import MissionSection from 'components/home/misssion-section'
 import VisionSection from 'components/home/vission-section'
 import Layout from 'components/layout'
+import CTA from 'components/services/CTA'
 import FeatureBox from 'components/services/Featurebox/FeatureBox'
 import HeroSection from 'components/services/HeroSection'
+import ServiceSection from 'components/services/ServiceSection'
 import Head from 'next/head'
 
 
-export default function About() {
+export default function ArtificialIntelligence() {
     return (
         <Layout>
-            <HeroSection Title1="Artificial" Title2=" Intelligence Services" />
+            <HeroSection Title1="Artificial" Title2=" Intelligence" />
+            <ServiceSection p1="At Nahal Technologies, our expert software engineers and developers specialize in crafting high-performance enterprise-grade software tailored to address our clients’ unique digital transformation needs. Whether building feature-rich web platforms, intuitive mobile applications or mission-critical cloud-based solutions, we pride ourselves on our ability to translate business requirements into eloquent code that achieves outcomes."
+                p2="Our development methodology focuses on rapid prototyping coupled with robust architecture optimized for security, scalability and maintainability across product lifecycles. If leveraging software to connect processes, unlock insights or achieve competitive advantage is your goal, our passionate team would welcome the opportunity to collaborate on delivering excellence." />
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
                     <div className="heading_container heading_center">
@@ -21,30 +25,32 @@ export default function About() {
                     </div>
                     <div className="row justify-center">
                         <FeatureBox
-                            title="Telecommunication equipment & services"
-                            description="We provide end-to-end procurement and delivery 
-            of the latest IT and telecom hardware and software, including 
-            routers, switches, servers, and wireless solutions tailored to 
-            expand connectivity and optimize network performance."
+                            title="Data-Driven Solutions"
+                            description="We analyze your existing business data sets and
+                             processes first to develop customized machine learning models 
+                             focused on optimizing target metrics like cost reductions, risk 
+                             mitigation or revenue growth identified by key stakeholders."
                         />
                         <FeatureBox
-                            title="Datacenter Design & Architecture"
-                            description="Nahal Technologies we optimize datacenter 
-            scalability, resilience, efficiency, and safety through consulting services focused on capacity 
-            planning, redundancy building, power management, and physical plus cybersecurity protocols."
+                            title="Adaptive Intelligence"
+                            description="Our artificial intelligence solutions continuously
+                             recalibrate predictive outputs and recommended actions using up-to-date
+                              inputs. This means the systems remain relevant even as market conditions,
+                               internal processes or consumer behavior evolve."
                         />
                         <FeatureBox
-                            title="Server Installation & Configuration"
-                            description="Our skilled technicians seamlessly deploy, 
-            customize, integrate and support business servers, ensuring optimal uptime, 
-            performance, and compatibility with your existing systems and workloads."
+                            title="Seamless  Integrations"
+                            description="Specialist teams seamlessly
+                             and securely embed our AI modules into existing workflows – across
+                              departments and IT environments. This frictionless integration allows
+                               employees adopting AI to focus their effort on leveraging data-driven 
+                               insight."
                         />
                     </div>
                 </div>
             </section>
-            <AboutSection />
+            <CTA />
             <MissionSection />
-            <VisionSection />
         </Layout>
     )
 }

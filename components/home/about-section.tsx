@@ -29,7 +29,7 @@ const AboutSection = () => {
                 are tailored to their specific needs. The company's focus on innovation, collaboration, and customer
                 satisfaction has made it a trusted partner for businesses and organizations of all sizes.</p>
               <div className="btn-box">
-                <a href="#contact">Get a quote</a>
+                <a href="/contact-us">Get a quote</a>
               </div>
             </div>
           </div>
