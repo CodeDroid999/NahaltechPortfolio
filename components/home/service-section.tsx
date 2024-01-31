@@ -68,7 +68,20 @@ const ServiceSection: React.FC = () => {
              protocols to enable secure enterprise-wide collaboration."
             pageUrl="/services/network-design-services"
           />
+          <ServiceBox
 
+            title="Entertainment & Media"
+            description="Our tailored education technology solutions create personalized,
+             interactive learning experiences through capabilities like AI-enhanced course 
+             delivery and self-paced eLearning 
+             modules. By partnering with us, you can enable education that expands accessibility and drives excellence." />
+          <ServiceBox
+            title="Self Hosting Services"
+            description="Nahal Technologies offers a wide range of self-hosting solutions that allow you to host your own
+            applications and data on your own infrastructure. Our self-hosting solutions are designed to be easy to
+            deploy and manage, and they are backed by our 24/7 support team"
+            pageUrl="/services/self-hosting-services"
+          />
         </div>
       </div>
     </section>

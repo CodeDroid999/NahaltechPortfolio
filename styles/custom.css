@@ -1015,3 +1015,59 @@ a:focus {
   background: linear-gradient(to right, rgb(0, 0, 0), rgb(0, 0, 0));
   /* Adjust opacity values here */
 }
+
+
+
+.features_section {
+  background-color: #f2f2f2;
+}
+
+.features_section .heading_container {
+  color: #fefbfb;
+}
+
+.features_section .box {
+  background-color: #ffffff;
+  padding: 25px 15px;
+  text-align: center;
+  -webkit-box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.452);
+  margin-top: 45px;
+}
+
+.features_section .box .img-box svg {
+  width: 75px;
+  height: auto;
+  fill: #1c1c1c;
+}
+
+.features_section .box .detail-box {
+  margin-top: 25px;
+}
+
+.features_section .box .detail-box h6 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.features_section .box .detail-box a {
+  display: inline-block;
+  padding: 8px 35px;
+  background-color: #fd7e14;
+  ;
+  color: #ffffff;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: 1px solid transparent;
+  margin-top: 10px;
+}
+
+.features_section .box .detail-box a:hover {
+  background-color: transparent;
+  border-color: #fd7e14;
+  ;
+  color: #fd7e14;
+  ;
+}
