@@ -46,27 +46,26 @@ const ServiceSection: React.FC = () => {
             description="At Nahal technologies we offer strategic technology
              guidance and targeted solutions encompassing security, infrastructure
               upgrades, support services and more to maximize capability, productivity, and risk management."
-            pageUrl="/services/telecommunications-supplies-and-services"
+            pageUrl="/services/it-consulting-services"
           />
           <ServiceBox
             title="Data Analytics Services"
             description="Our team of highly seasoned professionals help businesses harness valuable insights hidden
              in your data by building advanced warehouses coupled with predictive models,
               queries, and intelligence reporting platforms."
-            pageUrl="/services/telecommunications-supplies-and-services"
+            pageUrl="/services/data-analytics-services"
           />
           <ServiceBox
             title="Artificial Intelligence Services"
             description="Nahal Technologies also develops âsmartâ software that trains machines to 
             simulate human learning and logic to independently complete complex processing and problem-solving."
-            pageUrl="/services/telecommunications-supplies-and-services"
-          />
+            pageUrl="/services/artificial-intelligence-services" />
           <ServiceBox
             title="Network Design Services"
             description="We architect speed-optimized networks with ample bandwidth, minimal lag, 
             and robust endpoint-to-endpoint access control
              protocols to enable secure enterprise-wide collaboration."
-            pageUrl="/services/telecommunications-supplies-and-services"
+            pageUrl="/services/network-design-services"
           />
 
         </div>
