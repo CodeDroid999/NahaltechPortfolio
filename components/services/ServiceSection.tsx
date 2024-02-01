@@ -9,7 +9,7 @@ interface FeatureBoxProps {
 
 const ServiceSection = ({ p1, p2, bg }) => {
     return (
-        <section id="about" className="about_section layout_padding1">
+        <section id="about" className="about_section layout_padding">
             <div className="container">
                 <div className="row">
                     <div className="col-md-6 px-0">

@@ -10,7 +10,7 @@ interface FeatureBoxProps {
 
 const ServiceOverview = ({ p1, p2, bg, Title }) => {
     return (
-        <section id="about" className="about_section bg-gray-100 layout_padding1">
+        <section id="about" className="about_section bg-gray-100 layout_padding">
             <div className="container">
                 <div className="row">
                     <div className="col-md-6 px-0">
