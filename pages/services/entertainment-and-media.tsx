@@ -9,7 +9,7 @@ export default function Entertainment() {
     return (
         <Layout>
             <HeroSection Title1="Entertainment" Title2=" & Media" />
-            <ServiceSection p1="At Nahal Technologies, Our data analytics solutions empower organizations to derive strategic, actionable insights using advanced analytics techniques including predictive modeling, machine learning algorithms, IoT data processing and custom BI dashboards."
+            <ServiceSection bg="https://i.postimg.cc/Y08H18vL/entertainment.jpg" p1="At Nahal Technologies, Our data analytics solutions empower organizations to derive strategic, actionable insights using advanced analytics techniques including predictive modeling, machine learning algorithms, IoT data processing and custom BI dashboards."
                 p2="By leveraging real-time data feeds integrated from across business units, we provide visibility into micro trends while our data scientists uncover macro opportunities. If leveraging data intelligence to steer competitive advantage and ROI appeals to you, let's connect." />
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
