@@ -26,16 +26,13 @@ const VisionSection: React.FC = () => {
                 <li className="mb-3">Expanding our footprint across key African markets by 2025 to extend our expertise where it is most needed. Our on-the-ground presence and proximity to clients provides the context to deliver maximum value.</li>
                 <li className="mb-3">Investing in emerging technologies like artificial intelligence, blockchain and the Internet of Things to keep African innovation at the cutting edge. We will collaborate with startups and established players to build a vibrant future-ready ecosystem.</li>
               </ol>
+              <a href="/PDF//Nahal-Tech-Profile.pdf" download="Nahal-Tech-Profile">
+                Download portfolio
+              </a>
             </div>
           </div>
         </div>
-        <div className="row pt-3 pb-3">
-          <div className="btn-box">
-            <a href="your-pdf-file.pdf" download="suggested-filename.pdf">
-              Download portfolio
-            </a>
-          </div>
-        </div>
+
       </div>
     </section>
   );
