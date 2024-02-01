@@ -7,10 +7,8 @@ interface ImageBoxProps {
 
 const ImageBox: React.FC<ImageBoxProps> = ({ bgUrl, }) => {
     return (
-        <div className="col-md-6 ">
-            <div className="img-box">
-                <img src={bgUrl} alt="" />
-            </div>
+        <div className="col-md-4 ">
+            <img src={bgUrl} alt="" className="h-full w-full" />
         </div >
     );
 };

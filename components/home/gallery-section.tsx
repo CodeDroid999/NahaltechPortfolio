@@ -4,12 +4,10 @@ import ImageBox from './GallerySection.tsx/Imagebox';
 
 const GallerySection: React.FC = () => {
     return (
-        <section id="gallery" className="gallery_section layout_padding">
+        <section id="gallery" className="layout_padding">
             <div className="container">
-                <div className="row">
-                    <ImageBox bgUrl='https://i.postimg.cc/3rvPVN46/bunda.jpg' />
-                    <ImageBox bgUrl='https://i.postimg.cc/k4Xw2cPp/network.png' />
-                    <ImageBox bgUrl='https://i.postimg.cc/0NJKcKdy/cable.jpg' />
+                <h1>Gallery</h1>
+                <div className="row no-gutters">
                     <ImageBox bgUrl='https://i.postimg.cc/25N5wcHV/AI.png' />
                     <ImageBox bgUrl='https://i.postimg.cc/5tKhdFmc/grao.jpg' />
                     <ImageBox bgUrl='https://i.postimg.cc/bNHT9WYB/Screenshot-2024-02-01-031523.png' />
@@ -21,6 +19,7 @@ const GallerySection: React.FC = () => {
                     <ImageBox bgUrl='https://i.postimg.cc/x8MhzpVY/fibreoptic.jpg' />
                 </div>
             </div>
+
         </section>
     );
 };
