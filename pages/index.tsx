@@ -53,7 +53,6 @@ export default function Index() {
         <GallerySection />
       </section>
       <VisionSection />
-      <GallerySection />
       <ContactForm />
     </Layout>
   )
