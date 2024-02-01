@@ -15,7 +15,7 @@ const LightCustomNavbar = () => {
   return (
     <div className="m-auto flex max-w-[1100px] items-center justify-between p-2 lg:p-3">
       {/**Mobile Nav */}
-      <MobileNavbar/>
+      <MobileNavbar />
 
       {/**Desktop */}
       <div className="hidden w-full items-center justify-between font-semibold lg:flex">
@@ -54,19 +54,14 @@ const LightCustomNavbar = () => {
           >
             ABOUT
           </Link>
-          <Link
-            href="/services"
-            className=" px-2 py-1 font-medium text-gray-700 hover:bg-gray-200"
+          <Link href="/services" className=" px-2 py-1 font-medium text-gray-700 hover:bg-gray-200"
           >
             SERVICES
-          </Link> <Link
-            href="/projects"
+          </Link>
+          <Link
+            href="/blog"
             className="px-2 py-1 font-medium text-gray-700 hover:bg-gray-200"
           >
-            PROJECTS          </Link> <Link
-              href="/blog"
-              className="px-2 py-1 font-medium text-gray-700 hover:bg-gray-200"
-            >
             BLOG
           </Link>
           <Link

@@ -3,7 +3,7 @@ import React from 'react';
 
 const NavigationMenu: React.FC = () => {
   return (
-    <div className="bg-white w-100 bg-blue-100">
+    <div className="bg-gray-100">
       <ul className="navbar-nav p-1 bg-blue-100">
         <li className="nav-item active p-2 ">
           <Link href="/" passHref>

@@ -6,6 +6,7 @@ import AboutSection from '../components/home/about-section'
 import MissionSection from '../components/home/misssion-section'
 import VisionSection from '../components/home/vission-section'
 import Layout from '../components/layout'
+import GallerySection from 'components/home/gallery-section'
 
 export default function About() {
   return (
@@ -46,6 +47,7 @@ export default function About() {
             />
           </div>
         </div>
+        <GallerySection />
       </section>
     </Layout>
   )
