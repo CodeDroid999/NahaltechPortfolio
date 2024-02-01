@@ -1,9 +1,8 @@
 
 import HeroSection from 'components/services/HeroSection'
-import HeroArea from '../components/home/hero-section'
-import Layout from '../components/layout'
-import ContactForm from '../components/layout/contact-form'
 import ServiceOverview from 'components/services/ServiceOverview'
+
+import Layout from '../components/layout'
 
 export default function Services() {
   return (
