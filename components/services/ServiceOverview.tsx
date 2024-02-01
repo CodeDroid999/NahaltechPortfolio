@@ -8,7 +8,7 @@ interface FeatureBoxProps {
     Title: string;
 }
 
-const ServiceOverviewL1 = ({ p1, p2, bg, Title }) => {
+const ServiceOverview = ({ p1, p2, bg, Title }) => {
     return (
         <section id="about" className="about_section bg-gray-100 layout_padding1">
             <div className="container">
@@ -37,4 +37,4 @@ const ServiceOverviewL1 = ({ p1, p2, bg, Title }) => {
     );
 };
 
-export default ServiceOverviewL1;
+export default ServiceOverview;

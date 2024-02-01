@@ -3,14 +3,14 @@ import CTA from 'components/services/CTA'
 import FeatureBox from 'components/services/Featurebox/FeatureBox'
 import HeroSection from 'components/services/HeroSection'
 import ServiceSection from 'components/services/ServiceSection'
-
+<ServiceSection bg="https://i.postimg.cc/X73KqLKc/software.png" p1="At Nahal Technologies, Our data analytics solutions empower organizations to derive strategic, actionable insights using advanced analytics techniques including predictive modeling, machine learning algorithms, IoT data processing and custom BI dashboards."
+    p2="By leveraging real-time data feeds integrated from across business units, we provide visibility into micro trends while our data scientists uncover macro opportunities. If leveraging data intelligence to steer competitive advantage and ROI appeals to you, let's connect." />
 
 export default function SoftwareDev() {
     return (
         <Layout>
             <HeroSection Title1="Software" Title2=" Development Services" />
-            <ServiceSection bg="https://i.postimg.cc/X73KqLKc/software.png" p1="At Nahal Technologies, Our data analytics solutions empower organizations to derive strategic, actionable insights using advanced analytics techniques including predictive modeling, machine learning algorithms, IoT data processing and custom BI dashboards."
-                p2="By leveraging real-time data feeds integrated from across business units, we provide visibility into micro trends while our data scientists uncover macro opportunities. If leveraging data intelligence to steer competitive advantage and ROI appeals to you, let's connect." />
+            c
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
                     <div className="heading_container heading_center">
