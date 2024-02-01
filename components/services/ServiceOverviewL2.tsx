@@ -25,9 +25,11 @@ const ServiceOverviewL2 = ({ p1, p2, bg, Title }) => {
                             <div className="heading_container">
                                 <h2>{Title}</h2>
                             </div>
-                            <p>                          {p1}</p>
+                            <p>{p1}</p>
                             <p>{p2}</p>
+                            <a href="contact-us">Get a Quote</a>
                         </div>
+
                     </div>
                 </div>
             </div>
