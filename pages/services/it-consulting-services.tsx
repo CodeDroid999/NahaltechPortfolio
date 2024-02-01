@@ -9,8 +9,9 @@ export default function ITConsuklting() {
     return (
         <Layout>
             <HeroSection Title1="IT" Title2=" Consulting" />
-            <ServiceSection bg="https://i.postimg.cc/bvfBwkv7/consulting.png" p1="At Nahal Technologies, Our data analytics solutions empower organizations to derive strategic, actionable insights using advanced analytics techniques including predictive modeling, machine learning algorithms, IoT data processing and custom BI dashboards."
-                p2="By leveraging real-time data feeds integrated from across business units, we provide visibility into micro trends while our data scientists uncover macro opportunities. If leveraging data intelligence to steer competitive advantage and ROI appeals to you, let's connect." />
+            <ServiceSection bg="https://i.postimg.cc/bvfBwkv7/consulting.png"
+                p1="At Nahal Technologies, we go beyond conventional services, offering strategic technology guidance and targeted solutions to propel your business forward. Our expertise spans security, infrastructure upgrades, support services, and more. We strategically align technology with your business objectives to maximize capability, enhance productivity, and fortify risk management."
+                p2="With a focus on innovation and efficiency, Nahal Technologies is your partner in navigating the ever-evolving technological landscape. Elevate your business with our comprehensive solutions tailored to meet your unique needs." />
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
                     <div className="heading_container heading_center">

@@ -9,8 +9,9 @@ export default function Networks() {
     return (
         <Layout>
             <HeroSection Title1="Network" Title2=" Design & Architecture" />
-            <ServiceSection bg="https://i.postimg.cc/k4Xw2cPp/network.png" p1="At Nahal Technologies, Our data analytics solutions empower organizations to derive strategic, actionable insights using advanced analytics techniques including predictive modeling, machine learning algorithms, IoT data processing and custom BI dashboards."
-                p2="By leveraging real-time data feeds integrated from across business units, we provide visibility into micro trends while our data scientists uncover macro opportunities. If leveraging data intelligence to steer competitive advantage and ROI appeals to you, let's connect." />
+            <ServiceSection bg="https://i.postimg.cc/k4Xw2cPp/network.png"
+                p1="At Nahal Technologies, we specialize in architecting speed-optimized networks that redefine enterprise connectivity. Our solutions ensure ample bandwidth, minimal lag, and robust endpoint-to-endpoint access control protocols. This strategic approach not only optimizes network speed but also establishes a secure foundation for enterprise-wide collaboration."
+                p2="Nahal Tech's expertise lies in seamlessly integrating technology to enhance connectivity, reduce latency, and fortify data security. Elevate your collaborative endeavors with our network architecture solutions, where speed meets security for a connected and productive enterprise." />
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
                     <div className="heading_container heading_center">

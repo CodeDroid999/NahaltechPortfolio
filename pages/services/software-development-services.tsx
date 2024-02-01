@@ -11,8 +11,9 @@ export default function SoftwareDev() {
     return (
         <Layout>
             <HeroSection Title1="Software" Title2=" Development Services" />
-            <ServiceOverview Title="Software Development" bg="https://i.postimg.cc/X73KqLKc/software.png" p1="At Nahal Technologies, Our data analytics solutions empower organizations to derive strategic, actionable insights using advanced analytics techniques including predictive modeling, machine learning algorithms, IoT data processing and custom BI dashboards."
-                p2="By leveraging real-time data feeds integrated from across business units, we provide visibility into micro trends while our data scientists uncover macro opportunities. If leveraging data intelligence to steer competitive advantage and ROI appeals to you, let's connect." />
+            <ServiceOverview Title="Software Development" bg="https://i.postimg.cc/X73KqLKc/software.png"
+                p1="Nahal Technologies specializes in crafting future-ready, enterprise-grade software applications tailored to meet unique client requirements. Our expertise extends across web, mobile, and cloud platforms, ensuring a seamless integration that drives workflow excellence and provides a technological advantage."
+                p2=" From conceptualization to deployment, our dedicated team navigates the complexities of software development, delivering solutions that not only meet but exceed your expectations. Embrace innovation and efficiency with Nahal Technologies, where every line of code is strategically woven to propel your business forward." />
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
                     <div className="heading_container heading_center">

@@ -9,8 +9,10 @@ export default function Telecom() {
     return (
         <Layout>
             <HeroSection Title1="Telecommunication" Title2=" Supplies & Services" />
-            <ServiceSection bg="https://i.postimg.cc/0NJKcKdy/cable.jpg" p1="At Nahal Technologies, Our data analytics solutions empower organizations to derive strategic, actionable insights using advanced analytics techniques including predictive modeling, machine learning algorithms, IoT data processing and custom BI dashboards."
-                p2="By leveraging real-time data feeds integrated from across business units, we provide visibility into micro trends while our data scientists uncover macro opportunities. If leveraging data intelligence to steer competitive advantage and ROI appeals to you, let's connect." />
+            <ServiceSection bg="https://i.postimg.cc/0NJKcKdy/cable.jpg"
+                p1="
+             Nahal Technologies specializes in end-to-end procurement and delivery of cutting-edge IT and telecom hardware and software. Our services encompass routers, switches, servers, and wireless solutions meticulously tailored to enhance connectivity and optimize network performance. "
+                p2="With a commitment to delivering the latest technologies, we ensure seamless integration, providing businesses with reliable and efficient solutions. Whether it's expanding network capabilities or upgrading systems, Nahal Tech offers a comprehensive suite of services, empowering clients with the latest innovations in the rapidly evolving IT and telecom landscape               " />
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
                     <div className="heading_container heading_center">

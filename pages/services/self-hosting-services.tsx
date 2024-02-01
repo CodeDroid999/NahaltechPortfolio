@@ -9,8 +9,9 @@ export default function DataAnalytics() {
     return (
         <Layout>
             <HeroSection Title1="Self-hosting" Title2=" Consultation & Services" />
-            <ServiceSection bg="https://i.postimg.cc/Cx7cStWq/self-hosting.png" p1="At Nahal Technologies, Our data analytics solutions empower organizations to derive strategic, actionable insights using advanced analytics techniques including predictive modeling, machine learning algorithms, IoT data processing and custom BI dashboards."
-                p2="By leveraging real-time data feeds integrated from across business units, we provide visibility into micro trends while our data scientists uncover macro opportunities. If leveraging data intelligence to steer competitive advantage and ROI appeals to you, let's connect." />
+            <ServiceSection bg="https://i.postimg.cc/Cx7cStWq/self-hosting.png"
+                p1="Nahal Technologies extends a versatile suite of self-hosting solutions, empowering you to host your applications and data on your infrastructure. Engineered for simplicity, our self-hosting solutions are designed for easy deployment and management, putting you in complete control."
+                p2="Backed by our dedicated 24/7 support team, you can trust Nahal Tech to provide the assistance you need, ensuring a seamless and secure self-hosting experience. Embrace autonomy and flexibility with our self-hosting solutions, where you dictate the terms of your digital environment." />
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
                     <div className="heading_container heading_center">

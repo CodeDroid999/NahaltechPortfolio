@@ -9,8 +9,9 @@ export default function Servers() {
     return (
         <Layout>
             <HeroSection Title1="Server" Title2=" Installation & Configuration" />
-            <ServiceSection bg="https://i.postimg.cc/bNHT9WYB/Screenshot-2024-02-01-031523.png" p1="At Nahal Technologies, Our data analytics solutions empower organizations to derive strategic, actionable insights using advanced analytics techniques including predictive modeling, machine learning algorithms, IoT data processing and custom BI dashboards."
-                p2="By leveraging real-time data feeds integrated from across business units, we provide visibility into micro trends while our data scientists uncover macro opportunities. If leveraging data intelligence to steer competitive advantage and ROI appeals to you, let's connect." />
+            <ServiceSection bg="https://i.postimg.cc/bNHT9WYB/Screenshot-2024-02-01-031523.png"
+                p1="At Nahal Technologies, our skilled technicians bring a seamless and tailored approach to server installation and configuration. We go beyond mere deployment, offering comprehensive services that include customization, integration, and ongoing support. Our focus is on ensuring optimal uptime, unparalleled performance, and seamless compatibility with your existing systems and workloads"
+                p2="Whether you're expanding your infrastructure or seeking to enhance efficiency, our dedicated team ensures that your business servers are not just installed but optimized to meet the unique demands of your operations." />
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
                     <div className="heading_container heading_center">

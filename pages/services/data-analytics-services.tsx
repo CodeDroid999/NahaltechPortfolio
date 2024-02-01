@@ -10,8 +10,8 @@ export default function DataAnalytics() {
         <Layout>
             <HeroSection Title1="Data" Title2=" Analytics" />
             <ServiceSection bg="https://i.postimg.cc/sgTrBTtk/data.png"
-                p1="At Nahal Technologies, Our data analytics solutions empower organizations to derive strategic, actionable insights using advanced analytics techniques including predictive modeling, machine learning algorithms, IoT data processing and custom BI dashboards."
-                p2="By leveraging real-time data feeds integrated from across business units, we provide visibility into micro trends while our data scientists uncover macro opportunities. If leveraging data intelligence to steer competitive advantage and ROI appeals to you, let's connect." />
+                p1="Nahal Technologies boasts a team of highly seasoned professionals dedicated to helping businesses harness valuable insights hidden within their data. We specialize in building advanced data warehouses complemented by predictive models, intricate queries, and intelligence reporting platforms."
+                p2="Our approach goes beyond traditional data management, empowering businesses to make informed decisions, identify trends, and gain a competitive edge. Partner with Nahal Technologies to transform your data into a strategic asset, unlocking its full potential to drive growth, innovation, and success." />
             <section id="services" className="features_section bg-gray-100 layout_padding2">
                 <div className="container">
                     <div className="heading_container heading_center">

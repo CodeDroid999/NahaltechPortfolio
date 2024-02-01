@@ -60,7 +60,7 @@ const ServiceSection: React.FC = () => {
             title="Artificial Intelligence Services"
             description="Nahal Technologies also develops âsmartâ software that trains machines to 
             simulate human learning and logic to independently complete complex processing and problem-solving."
-            pageUrl="/services/artificial-intelligence-services" />
+            pageUrl="/services/artificial-intelligence-services." />
           <ServiceBox
             title="Network Design Services"
             description="We architect speed-optimized networks with ample bandwidth, minimal lag, 
@@ -79,7 +79,7 @@ const ServiceSection: React.FC = () => {
             title="Self Hosting Services"
             description="Nahal Technologies offers a wide range of self-hosting solutions that allow you to host your own
             applications and data on your own infrastructure. Our self-hosting solutions are designed to be easy to
-            deploy and manage, and they are backed by our 24/7 support team"
+            deploy and manage, and they are backed by our 24/7 support team."
             pageUrl="/services/self-hosting-services"
           />
         </div>
