@@ -22,16 +22,16 @@ export default function Telecom() {
                     </div>
                     <div className="row justify-center">
                         <FeatureBox
-                            title="Customized Solutions"
-                            description="We tailor analytic solutions based on identifying key data sources, metrics, and business priorities across departments to provide insights that translate into action."
+                            title="Enhanced Connectivity"
+                            description="Unleash unparalleled connectivity with Nahal Technologies. Our specialized telecom services ensure a seamless network experience by delivering cutting-edge hardware and software solutions. From routers to wireless technologies, we meticulously tailor services to optimize connectivity, empowering your business with reliable and high-performing networks."
                         />
                         <FeatureBox
-                            title="Scalability"
-                            description="Our analytics architecture allows seamless integration of new real-time data feeds and scalable cloud infrastructure to handle exponentially growing enterprise data volumes."
+                            title="Future-Ready Solutions"
+                            description="Explore future-ready solutions with us. Stay ahead in the rapidly evolving IT and telecom landscape with Nahal Tech. Our end-to-end procurement and delivery services focus on the latest technologies, ensuring your systems are not just upgraded but future-ready. Benefit from routers, switches, servers, and wireless solutions that harness the power of technology for a better future."
                         />
                         <FeatureBox
-                            title="Data Driven"
-                            description="While our analytics dashboards provide targeted visibility, we offer sandbox environments for your team to discover new data relationships, trends and growth opportunities."
+                            title="Seamless Integration"
+                            description="Experience the advantage of seamless integration with Nahal Technologies. Our commitment to delivering the latest technologies extends to ensuring these solutions integrate effortlessly into your existing workflows. Enjoy reliable, efficient, and integrated systems that empower your business to thrive in the dynamic realms of IT and telecommunications."
                         />
                     </div>
                 </div>
