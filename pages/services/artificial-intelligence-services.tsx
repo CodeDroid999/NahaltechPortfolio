@@ -22,7 +22,7 @@ export default function ArtificialIntelligence() {
                     <div className="row justify-center">
                         <FeatureBox
                             title="Machine Intelligence"
-                            description="Step into the future with Nahal Technologies' groundbreaking Artificial Intelligence services. We don't just develop software; we empower machines to simulate human learning and logic. Our 'smart' solutions redefine efficiency, enabling machines to independently tackle complex processing and problem-solving tasks."
+                            description="Step into the future with Nahal Technologies' groundbreaking Artificial Intelligence services. We don't just develop software; we empower machines to simulate human learning and logic. Our 'smart' solutions redefine efficiency, enabling machines to independently tackle complex processing and problem-solving tasks.Elevate your business with our comprehensive solutions"
                         />
                         <FeatureBox
                             title="Integration"

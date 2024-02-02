@@ -4,7 +4,7 @@ import ImageBox from './GallerySection.tsx/Imagebox';
 
 const GallerySection: React.FC = () => {
     return (
-        <section id="gallery" className="layout_padding1">
+        <section id="gallery" className="layout_padding bg-gray-200">
             <div className="container">
                 <h1>Gallery</h1>
                 <div className="row no-gutters">

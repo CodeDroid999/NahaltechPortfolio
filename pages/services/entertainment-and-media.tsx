@@ -21,16 +21,15 @@ export default function Entertainment() {
                     </div>
                     <div className="row justify-center">
                         <FeatureBox
-                            title="Customized Solutions"
-                            description="We tailor analytic solutions based on identifying key data sources, metrics, and business priorities across departments to provide insights that translate into action."
+                            title="Pioneeering Technology" description="Embark on a journey of educational transformation with Nahal Technologies. Our Entertainment & Media services pioneer tailored education technology solutions, creating personalized and interactive learning experiences. From AI-enhanced course delivery to self-paced eLearning modules, we redefine the landscape of education."
                         />
                         <FeatureBox
                             title="Scalability"
-                            description="Our analytics architecture allows seamless integration of new real-time data feeds and scalable cloud infrastructure to handle exponentially growing enterprise data volumes."
+                            description="Partnering with Nahal Technologies opens doors to education beyond traditional boundaries. Our commitment to innovation expands accessibility and drives excellence in education. Experience the future of learning where technology enhances engagement, fosters individualized learning paths, and prepares students for success in an ever-evolving world."
                         />
                         <FeatureBox
-                            title="Data Driven"
-                            description="While our analytics dashboards provide targeted visibility, we offer sandbox environments for your team to discover new data relationships, trends and growth opportunities."
+                            title="Future Focused"
+                            description="Nahal Technologies empowers institutions to embrace the future of learning. Our Entertainment & Media services are designed to enhance engagement, foster individualized learning paths, and prepare students for success. Join us in shaping the future of education where technology is not just a tool but a transformative force."
                         />
                     </div>
                 </div>

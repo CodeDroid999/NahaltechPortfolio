@@ -21,16 +21,16 @@ export default function ITConsuklting() {
                     </div>
                     <div className="row justify-center">
                         <FeatureBox
-                            title="Customized Solutions"
-                            description="We tailor analytic solutions based on identifying key data sources, metrics, and business priorities across departments to provide insights that translate into action. Elevate your business with our comprehensive solutions."
+                            title="Autonomy"
+                            description="Step into a realm of autonomy with Nahal Technologies' Self-Hosting Consultation & Services. We extend a versatile suite of solutions, empowering you to host your applications and data on your infrastructure. Dictate the terms of your digital environment as we engineer simplicity for easy deployment and management."
                         />
                         <FeatureBox
-                            title="Scalability"
-                            description="Our analytics architecture allows seamless integration of new real-time data feeds and scalable cloud infrastructure to handle exponentially growing enterprise data volumes."
+                            title="Capability and Productivity"
+                            description="Partner with Nahal Technologies to maximize your business's capability and productivity. Our comprehensive solutions focus on innovation and efficiency, ensuring that technology becomes a driving force in your success. From strategic planning to implementation, we fortify your business for sustainable growth in the ever-evolving technological landscape."
                         />
                         <FeatureBox
-                            title="Data Driven"
-                            description="While our analytics dashboards provide targeted visibility, we offer sandbox environments for your team to discover new data relationships, trends and growth opportunities."
+                            title="Fortifying Risk Management:"
+                            description="Trust Nahal Technologies to fortify your risk management strategies. Our IT Consulting services are designed to navigate the complexities of the technological landscape, providing targeted solutions that enhance security and resilience. Elevate your business with solutions tailored to meet your unique needs and challenges."
                         />
                     </div>
                 </div>

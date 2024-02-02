@@ -25,8 +25,8 @@ export default function Networks() {
                             description="We tailor analytic solutions based on identifying key data sources, metrics, and business priorities across departments to provide insights that translate into action."
                         />
                         <FeatureBox
-                            title="Scalability"
-                            description="Our analytics architecture allows seamless integration of new real-time data feeds and scalable cloud infrastructure to handle exponentially growing enterprise data volumes."
+                            title="Security"
+                            description="Trust Nahal Tech's dedicated 24/7 support team to provide the assistance you need. Backed by our support, your self-hosting experience is not just autonomous and flexible but also secure. Embrace autonomy and flexibility in a new era of Network where you have the control, support, and security to shape your digital environment."
                         />
                         <FeatureBox
                             title="Customer Support"

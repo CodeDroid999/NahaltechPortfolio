@@ -21,16 +21,16 @@ export default function DataAnalytics() {
                     </div>
                     <div className="row justify-center">
                         <FeatureBox
-                            title="Customized Solutions"
-                            description="We tailor analytic solutions based on identifying key data sources, metrics, and business priorities across departments to provide insights that translate into action."
+                            title="Autonomy"
+                            description="Step into a realm of autonomy with Nahal Technologies' Self-Hosting Consultation & Services. We extend a versatile suite of solutions, empowering you to host your applications and data on your infrastructure. Dictate the terms of your digital environment as we engineer simplicity for easy deployment and management."
                         />
                         <FeatureBox
-                            title="Scalability"
-                            description="Trust Nahal Tech for optimal uptime and unparalleled performance. Our dedicated team goes the extra mile to ensure that your servers operate seamlessly, supporting the continuity of your business. Whether it's compatibility with existing systems or handling increased workloads, we guarantee a server infrastructure that meets the highest standards."
+                            title="Deployment & Management"
+                            description="Experience seamless deployment and management with Nahal Tech's self-hosting solutions. Engineered for simplicity, our solutions put you in complete control, ensuring that hosting your applications and data becomes a hassle-free endeavor. Embrace autonomy and flexibility as you navigate the digital landscape."
                         />
                         <FeatureBox
-                            title="Data Driven"
-                            description="While our analytics dashboards provide targeted visibility, we offer sandbox environments for your team to discover new data relationships, trends and growth opportunities."
+                            title="Security"
+                            description="Trust Nahal Tech's dedicated 24/7 support team to provide the assistance you need. Backed by our support, your self-hosting experience is not just autonomous and flexible but also secure. Embrace autonomy and flexibility in a new era of hosting where you have the control, support, and security to shape your digital environment."
                         />
                     </div>
                 </div>
