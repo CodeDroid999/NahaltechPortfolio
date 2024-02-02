@@ -58,7 +58,7 @@ const ServiceSection: React.FC = () => {
           <ServiceBox
 
             title="Artificial Intelligence Services"
-            description="Nahal Technologies also develops âsmartâ software that trains machines to 
+            description="Nahal Technologies also develops smart software that trains machines to 
             simulate human learning and logic to independently complete complex processing and problem-solving."
             pageUrl="/services/artificial-intelligence-services" />
           <ServiceBox
