@@ -26,26 +26,16 @@ export default function DataCenters() {
                     </div>
                     <div className="row justify-center">
                         <FeatureBox
-                            title="Data-Driven Solutions"
-                            description="We analyze your existing business data sets and
-                             processes first to develop customized machine learning models 
-                             focused on optimizing target metrics like cost reductions, risk 
-                             mitigation or revenue growth identified by key stakeholders."
+                            title="Scalability and Efficiency"
+                            description="Elevate your datacenter's capabilities with Nahal Technologies. Our focus on optimizing scalability and efficiency ensures that your datacenter evolves seamlessly to meet increasing demands. Through meticulous capacity planning, we guarantee that your infrastructure scales in tandem with your business growth, providing a foundation for unparalleled efficiency."
                         />
                         <FeatureBox
-                            title="Adaptive Intelligence"
-                            description="Our artificial intelligence solutions continuously
-                             recalibrate predictive outputs and recommended actions using up-to-date
-                              inputs. This means the systems remain relevant even as market conditions,
-                               internal processes or consumer behavior evolve."
+                            title="Resilience and Redundancy"
+                            description="Experience uninterrupted operations with Nahal Tech's expertise in resilience and redundancy building. We fortify your datacenter against potential disruptions, creating a robust infrastructure that stands resilient in the face of challenges. Our commitment to redundancy ensures continuity, safeguarding your critical operations and data."
                         />
                         <FeatureBox
-                            title="Seamless  Integrations"
-                            description="Specialist teams seamlessly
-                             and securely embed our AI modules into existing workflows – across
-                              departments and IT environments. This frictionless integration allows
-                               employees adopting AI to focus their effort on leveraging data-driven 
-                               insight."
+                            title="Advanced Security Protocols"
+                            description="Trust Nahal Technologies to safeguard your infrastructure with advanced physical and cybersecurity protocols. Our comprehensive approach establishes a resilient defense against unauthorized access and cyber threats. Your datacenter becomes a secure fortress, where cutting-edge solutions meet expert knowledge to ensure the highest levels of security in the digital landscape."
                         />
                     </div>
                 </div>
