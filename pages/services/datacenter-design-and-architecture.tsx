@@ -10,7 +10,7 @@ export default function DataCenters() {
         <Layout>
             <HeroSection Title1="Datacenter" Title2=" Design & Architecture" />
             <ServiceSection bg="https://i.postimg.cc/LXYYQYts/data-center.jpg"
-                p1="ahal Technologies excels in optimizing datacenter scalability, resilience, efficiency, and safety. Our consulting services prioritize capacity planning, ensuring your datacenter aligns with evolving needs. Robust redundancy building guarantees uninterrupted operations, while intelligent power management minimizes environmental impact. "
+                p1="Nahal Technologies excels in optimizing datacenter scalability, resilience, efficiency, and safety. Our consulting services prioritize capacity planning, ensuring your datacenter aligns with evolving needs. Robust redundancy building guarantees uninterrupted operations, while intelligent power management minimizes environmental impact. "
                 p2="We secure your infrastructure with advanced physical and cybersecurity protocols, creating a resilient defense against unauthorized access and cyber threats. Nahal Technologies combines expertise with cutting-edge solutions, ensuring your datacenter stands as a beacon of efficiency and security in the digital landscape. Trust us to elevate your datacenter to new heights of performance and reliability.
 
 
