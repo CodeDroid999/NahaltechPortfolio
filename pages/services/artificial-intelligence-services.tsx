@@ -21,26 +21,16 @@ export default function ArtificialIntelligence() {
                     </div>
                     <div className="row justify-center">
                         <FeatureBox
-                            title="Data-Driven Solutions"
-                            description="We analyze your existing business data sets and
-                             processes first to develop customized machine learning models 
-                             focused on optimizing target metrics like cost reductions, risk 
-                             mitigation or revenue growth identified by key stakeholders."
+                            title="Machine Intelligence"
+                            description="Step into the future with Nahal Technologies' groundbreaking Artificial Intelligence services. We don't just develop software; we empower machines to simulate human learning and logic. Our 'smart' solutions redefine efficiency, enabling machines to independently tackle complex processing and problem-solving tasks."
                         />
                         <FeatureBox
-                            title="Adaptive Intelligence"
-                            description="Our artificial intelligence solutions continuously
-                             recalibrate predictive outputs and recommended actions using up-to-date
-                              inputs. This means the systems remain relevant even as market conditions,
-                               internal processes or consumer behavior evolve."
+                            title="Integration"
+                            description="Partner with Nahal Technologies to integrate cutting-edge Artificial Intelligence into your workflows. Embrace new features and possibilities as our AI solutions unlock unprecedented levels of automation and intelligence. Your business operations will not just keep up with the times but set the pace in the rapidly evolving landscape of technological innovation."
                         />
                         <FeatureBox
-                            title="Seamless  Integrations"
-                            description="Specialist teams seamlessly
-                             and securely embed our AI modules into existing workflows – across
-                              departments and IT environments. This frictionless integration allows
-                               employees adopting AI to focus their effort on leveraging data-driven 
-                               insight."
+                            title="Cutting-edge  Integrations"
+                            description="Partner with Nahal Technologies to integrate cutting-edge Artificial Intelligence into your workflows. Embrace new features and possibilities as our AI solutions unlock unprecedented levels of automation and intelligence. Your business operations will not just keep up with the times but set the pace in the rapidly evolving landscape of technological innovation."
                         />
                     </div>
                 </div>

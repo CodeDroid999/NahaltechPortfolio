@@ -22,7 +22,7 @@ export default function ITConsuklting() {
                     <div className="row justify-center">
                         <FeatureBox
                             title="Customized Solutions"
-                            description="We tailor analytic solutions based on identifying key data sources, metrics, and business priorities across departments to provide insights that translate into action."
+                            description="We tailor analytic solutions based on identifying key data sources, metrics, and business priorities across departments to provide insights that translate into action. Elevate your business with our comprehensive solutions."
                         />
                         <FeatureBox
                             title="Scalability"

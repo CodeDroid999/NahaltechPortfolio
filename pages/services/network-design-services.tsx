@@ -29,8 +29,8 @@ export default function Networks() {
                             description="Our analytics architecture allows seamless integration of new real-time data feeds and scalable cloud infrastructure to handle exponentially growing enterprise data volumes."
                         />
                         <FeatureBox
-                            title="Data Driven"
-                            description="While our analytics dashboards provide targeted visibility, we offer sandbox environments for your team to discover new data relationships, trends and growth opportunities."
+                            title="Customer Support"
+                            description="Beyond installation, Nahal Technologies offers ongoing support for your network. Our commitment extends to ensuring that your server infrastructure remains efficient and effective over time. Rely on our expertise to navigate any challenges, providing you with comprehensive support for a seamless technology experience."
                         />
                     </div>
                 </div>

@@ -26,7 +26,7 @@ export default function DataAnalytics() {
                         />
                         <FeatureBox
                             title="Scalability"
-                            description="Our analytics architecture allows seamless integration of new real-time data feeds and scalable cloud infrastructure to handle exponentially growing enterprise data volumes."
+                            description="Trust Nahal Tech for optimal uptime and unparalleled performance. Our dedicated team goes the extra mile to ensure that your servers operate seamlessly, supporting the continuity of your business. Whether it's compatibility with existing systems or handling increased workloads, we guarantee a server infrastructure that meets the highest standards."
                         />
                         <FeatureBox
                             title="Data Driven"

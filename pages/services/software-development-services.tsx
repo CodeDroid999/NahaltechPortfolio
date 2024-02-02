@@ -24,15 +24,18 @@ export default function SoftwareDev() {
                     <div className="row justify-center">
                         <FeatureBox
                             title="Workflow Excellence"
-                            description="Drive workflow excellence with our enterprise-grade software applications. Nahal Tech's dedicated team guides you from conceptualization to deployment, navigating the intricacies of software development. Every line of code is strategically woven to exceed expectations, ensuring that your business operates with unmatched innovation and efficiency."
+                            description="Drive workflow excellence with our enterprise-grade 
+                            software applications. Nahal Tech's dedicated team guides you from
+                             conceptualization to deployment, navigating the intricacies of softw
+                             are development. Every line of code is strategically woven to exceed expectations, ensuring that your business operates with unmatched innovation and efficiency."
                         />
                         <FeatureBox
-                            title="Scalability"
-                            description="Our software development architecture allows seamless integration of new real-time data feeds and scalable cloud infrastructure to handle exponentially growing enterprise data volumes."
+                            title="Seamless Integration"
+                            description="Experience seamless integration across platforms with Nahal Technologies. Our software development services are designed to provide not only tailored solutions but also a technological advantage. Whether it's web, mobile, or cloud, we ensure that your software applications seamlessly integrate into your existing workflows, propelling your business forward."
                         />
                         <FeatureBox
                             title="Progressive Software"
-                            description="Embrace the future with Nahal Technologies' specialized software development services. Our expertise spans web, mobile, and cloud platforms, ensuring your software applications are not just current but future-ready. We craft solutions that align with your unique requirements, providing your business with a technological advantage.Drive workflow excellence with our enterprise-grade software applications. Nahal Tech's dedicated team guides you from conceptualization to deployment, navigating the intricacies of software development. "
+                            description="Embrace the future with Nahal Technologies' specialized software development services. Our expertise spans web, mobile, and cloud platforms, ensuring your software applications are not just current but future-ready. We craft solutions that align with your unique requirements, providing your business with a technological advantage over  your competition."
                         />
                     </div>
                 </div>

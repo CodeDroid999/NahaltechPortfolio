@@ -60,7 +60,7 @@ const ServiceSection: React.FC = () => {
             title="Artificial Intelligence Services"
             description="Nahal Technologies also develops âsmartâ software that trains machines to 
             simulate human learning and logic to independently complete complex processing and problem-solving."
-            pageUrl="/services/artificial-intelligence-services." />
+            pageUrl="/services/artificial-intelligence-services" />
           <ServiceBox
             title="Network Design Services"
             description="We architect speed-optimized networks with ample bandwidth, minimal lag, 
