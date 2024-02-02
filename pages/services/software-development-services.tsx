@@ -23,16 +23,16 @@ export default function SoftwareDev() {
                     </div>
                     <div className="row justify-center">
                         <FeatureBox
-                            title="Customized Solutions"
-                            description="We tailor analytic solutions based on identifying key data sources, metrics, and business priorities across departments to provide insights that translate into action."
+                            title="Workflow Excellence"
+                            description="Drive workflow excellence with our enterprise-grade software applications. Nahal Tech's dedicated team guides you from conceptualization to deployment, navigating the intricacies of software development. Every line of code is strategically woven to exceed expectations, ensuring that your business operates with unmatched innovation and efficiency."
                         />
                         <FeatureBox
                             title="Scalability"
-                            description="Our analytics architecture allows seamless integration of new real-time data feeds and scalable cloud infrastructure to handle exponentially growing enterprise data volumes."
+                            description="Our software development architecture allows seamless integration of new real-time data feeds and scalable cloud infrastructure to handle exponentially growing enterprise data volumes."
                         />
                         <FeatureBox
-                            title="Data Driven"
-                            description="While our analytics dashboards provide targeted visibility, we offer sandbox environments for your team to discover new data relationships, trends and growth opportunities."
+                            title="Progressive Software"
+                            description="Embrace the future with Nahal Technologies' specialized software development services. Our expertise spans web, mobile, and cloud platforms, ensuring your software applications are not just current but future-ready. We craft solutions that align with your unique requirements, providing your business with a technological advantage.Drive workflow excellence with our enterprise-grade software applications. Nahal Tech's dedicated team guides you from conceptualization to deployment, navigating the intricacies of software development. "
                         />
                     </div>
                 </div>

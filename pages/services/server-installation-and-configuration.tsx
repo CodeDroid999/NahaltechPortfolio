@@ -21,16 +21,16 @@ export default function Servers() {
                     </div>
                     <div className="row justify-center">
                         <FeatureBox
-                            title="Customized Solutions"
-                            description="We tailor analytic solutions based on identifying key data sources, metrics, and business priorities across departments to provide insights that translate into action."
+                            title="Tailored Server Solutions"
+                            description="Experience a tailored approach to server installation and configuration with Nahal Technologies. Our skilled technicians bring expertise beyond deployment, focusing on customization and integration. We ensure your servers are not just installed but optimized, providing a tailored solution that aligns with the unique demands of your business operations."
                         />
                         <FeatureBox
-                            title="Scalability"
-                            description="Our analytics architecture allows seamless integration of new real-time data feeds and scalable cloud infrastructure to handle exponentially growing enterprise data volumes."
+                            title="Optimal Uptime and Performance"
+                            description="Trust Nahal Tech for optimal uptime and unparalleled performance. Our dedicated team goes the extra mile to ensure that your servers operate seamlessly, supporting the continuity of your business. Whether it's compatibility with existing systems or handling increased workloads, we guarantee a server infrastructure that meets the highest standards."
                         />
                         <FeatureBox
-                            title="Data Driven"
-                            description="While our analytics dashboards provide targeted visibility, we offer sandbox environments for your team to discover new data relationships, trends and growth opportunities."
+                            title="Comprehensive Support"
+                            description="Beyond installation, Nahal Technologies offers ongoing support for your business servers. Our commitment extends to ensuring that your server infrastructure remains efficient and effective over time. Rely on our expertise to navigate any challenges, providing you with comprehensive support for a seamless technology experience."
                         />
                     </div>
                 </div>
